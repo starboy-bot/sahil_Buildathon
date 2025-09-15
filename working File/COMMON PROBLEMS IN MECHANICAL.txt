@@ -1,0 +1,1058 @@
+COMMON PROBLEMS IN MECHANICAL
+
+🔹 Beginner Level (School/Basic Science, 30 ideas)
+1.	Pulley system for lifting small weights.
+2.	Hydraulic crane using syringes.
+3.	Solar-powered toy car.
+4.	Pedal-powered phone charger.
+5.	Balloon-powered car.
+6.	Windmill from cardboard and DC motor.
+7.	Hand-cranked torchlight.
+8.	Rainwater harvesting demo.
+9.	Newton’s cradle (energy transfer).
+10.	Mini water pump using a motor.
+11.	Hydraulic jack replica.
+12.	DIY solar cooker with mirrors.
+13.	Paper plane aerodynamics experiment.
+14.	Plastic bottle rocket.
+15.	Egg drop safety capsule (impact absorption).
+16.	Magnetic levitation toy.
+17.	Simple Stirling engine from cans.
+18.	Gyroscope stability demo.
+19.	Hydraulic braking demo (syringes + tubes).
+20.	Paper wind turbine.
+21.	Mini catapult (projectile motion).
+22.	Balloon hovercraft (CD + balloon).
+23.	Low-cost periscope.
+24.	Simple pendulum wave demo.
+25.	Arch bridge model (civil + mechanical).
+26.	DIY spectrometer.
+27.	Vortex cannon (fluid dynamics).
+28.	Tesla coil (mini demo).
+29.	Centrifugal pump demo.
+30.	Cam-follower mechanism using cardboard.
+________________________________________
+🔹 Intermediate Level (College, Mechanical Projects, 40 ideas)
+31.	Regenerative braking bicycle.
+32.	Hydraulic lift (scaled model).
+33.	Wind tunnel for testing aerodynamics.
+34.	Conveyor belt sorting system.
+35.	Pedal-powered washing machine.
+36.	Solar water heater prototype.
+37.	Chain drive vs belt drive efficiency demo.
+38.	DIY 3D printer (low-cost).
+39.	CNC plotter using Arduino.
+40.	Automated irrigation pump.
+41.	Flywheel energy storage demo.
+42.	Gearbox mechanism demo.
+43.	Shock absorber testing rig.
+44.	Line-following robot.
+45.	Obstacle-avoiding car.
+46.	Miniature wind turbine farm model.
+47.	Low-cost desalination unit (solar distillation).
+48.	DIY air purifier (HEPA + fan).
+49.	Fire-fighting robot (basic sensors).
+50.	Smart dustbin (auto open lid).
+51.	Low-cost vacuum forming machine.
+52.	Solar-powered cooler.
+53.	Fluidized bed demo.
+54.	Earthquake-resistant building model.
+55.	Automatic material feeder.
+56.	DIY water filtration system.
+57.	Waste heat recovery cooking stove.
+58.	Automated greenhouse controller.
+59.	Solar tracking panel.
+60.	Hovercraft using DC fan.
+61.	DIY spectrometer with smartphone.
+62.	Plastic waste shredder.
+63.	Bicycle-powered blender.
+64.	Wind-powered water pump.
+65.	Solar-powered backpack.
+66.	Autonomous parking car (mini model).
+67.	Smart helmet (accident detection).
+68.	Thermal energy storage demo.
+69.	Vertical axis wind turbine.
+70.	Pedal-powered grain grinder.
+________________________________________
+🔹 Replica / Industry-Level (Possible Clones, 30 ideas)
+71.	Replica of Tesla battery using 18650 Li-ion cells.
+72.	Miniature maglev train demo.
+73.	Drone replica (quadrotor).
+74.	Exoskeleton robotic hand prototype.
+75.	Miniature robotic arm (pick & place).
+76.	Replica of Tesla’s solar roof tiles (scaled model).
+77.	Smart warehouse robot (scaled AGV).
+78.	Model of Industry 4.0 smart factory line.
+79.	Self-balancing Segway robot.
+80.	Replica of Google’s Project Loon (mini balloon internet).
+81.	DIY autonomous drone delivery system.
+82.	Replica of Roomba vacuum (basic automation).
+83.	Miniature electric rickshaw.
+84.	Small-scale hydrogen fuel cell car.
+85.	Model of an F1 aerodynamics car (wind tunnel).
+86.	Automated baggage handling system (scaled airport demo).
+87.	Prototype of smart traffic light system.
+88.	Smart irrigation with IoT sensors.
+89.	Low-cost prosthetic hand.
+90.	Replica of automated recycling sorter.
+91.	Solar-powered desalination unit (industrial concept scaled down).
+92.	DIY EV charging station (scaled).
+93.	Model of carbon capture plant.
+94.	Replica of a robotic warehouse picker (Amazon-style).
+95.	Prototype of autonomous guided vehicle.
+96.	Replica of Tesla Cybertruck (scaled RC).
+97.	Wind-powered desalination demo.
+98.	Small-scale wave energy generator.
+99.	Smart home automation kit.
+100.	Replica of Smart City energy grid (mini model).
+________________________________________
+🔹 Beginner Level (School/Basic Science, 30 ideas)
+101.	Simple water wheel from cardboard.
+102.	Balloon-powered water pump.
+103.	Homemade thermometer (alcohol + straw).
+104.	Solar-powered calculator hack.
+105.	Simple pendulum clock.
+106.	Catapult trebuchet demo.
+107.	Rubber band powered car.
+108.	Water rocket launcher.
+109.	Archimedes screw water lifter.
+110.	Mini periscope (mirrors).
+111.	Kaleidoscope mechanics demo.
+112.	DIY anemometer (measure wind speed).
+113.	Balance scale using hangers.
+114.	Egg incubator (low-cost with lamp).
+115.	Mini greenhouse with plastic bottles.
+116.	Sand filter water cleaner.
+117.	Heat conduction demo (metal rods + wax).
+118.	DIY wind chimes with tuned pipes.
+119.	Piston mechanism with syringe demo.
+120.	Low-cost barometer.
+121.	Paper roller coaster (energy conservation).
+122.	Hydraulic press with syringes.
+123.	Rubber-band powered fan.
+124.	Air pressure rocket (bike pump).
+125.	Mechanical toy crane (pulley + gears).
+126.	Balloon hoverboard demo.
+127.	Mini solar fountain.
+128.	DIY compass with needle + magnet.
+129.	Light intensity solar demo (with LDR).
+130.	Mini hand-pump for water.
+________________________________________
+🔹 Intermediate Level (College, Mechanical Projects, 40 ideas)
+131.	Smart stick for visually impaired.
+132.	Low-cost incubator with auto temperature control.
+133.	Pedal-powered air compressor.
+134.	Mini vacuum cleaner.
+135.	Solar-powered fridge (scaled).
+136.	Thermal conductivity tester.
+137.	Electrolysis-based hydrogen generator.
+138.	Rain-sensing automatic wiper.
+139.	Solar-powered street light with battery.
+140.	Hydraulic robotic arm.
+141.	Pneumatic punching machine.
+142.	Miniature wind tunnel with smoke visualization.
+143.	Plastic injection molding machine (DIY).
+144.	Smart irrigation with soil sensors.
+145.	Water turbine power demo.
+146.	Energy-efficient house model (insulation demo).
+147.	Automated fire alarm system.
+148.	Electric go-kart (scaled).
+149.	Conveyor belt with speed control.
+150.	Bicycle-powered flour mill.
+151.	Low-cost air cooler with evaporative pads.
+152.	Arduino weather station.
+153.	Automated solar blinds for windows.
+154.	DIY desalination plant with solar.
+155.	Low-cost water sprinkler system.
+156.	Robotic path-mapping system.
+157.	Wireless energy transfer demo.
+158.	Gearless transmission bicycle.
+159.	Pneumatic material handling arm.
+160.	Automatic fish feeder.
+161.	Thermal energy conversion demo (Seebeck effect).
+162.	Vehicle anti-theft alarm prototype.
+163.	Dust collection system for workshop.
+164.	Automated waste collection bot.
+165.	DIY plasma cutter (scaled).
+166.	Temperature-controlled fan.
+167.	Arduino smart parking system.
+168.	Low-cost prosthetic leg.
+169.	Mini hovercraft with joystick control.
+170.	Soil erosion control model.
+________________________________________
+🔹 Replica / Industry-Level (Possible Clones, 30 ideas)
+171.	Replica of automated metro train system.
+172.	Miniature oil rig drilling model.
+173.	Replica of Boeing jet engine cross-section.
+174.	Automated baggage conveyor (airport demo).
+175.	Replica of nuclear power plant (safe model).
+176.	Smart factory with IoT sensors (scaled).
+177.	Replica of wind tunnel used in F1.
+178.	Prototype of self-checkout system (Walmart/Amazon style).
+179.	Smart traffic flow system (scaled city).
+180.	Replica of Mars rover (scaled).
+181.	Miniature hydroelectric dam model.
+182.	Automated robotic welding line (scaled).
+183.	Replica of bullet train maglev model.
+184.	DIY drone delivery system.
+185.	Replica of Tesla Gigafactory (scaled automation).
+186.	Replica of Boston Dynamics Spot robot (basic).
+187.	Wind farm monitoring system (scaled).
+188.	Self-healing material demo (industrial replica).
+189.	Replica of automated car wash system.
+190.	Smart smart-grid energy distribution demo.
+191.	Replica of EV battery swapping station.
+192.	Miniature geothermal plant model.
+193.	Replica of Amazon warehouse sorting line.
+194.	Model of Airbus wing aerodynamics.
+195.	Replica of robotic surgery arm (scaled).
+196.	Scaled smart home with IoT appliances.
+197.	Replica of Tesla autopilot system (toy car).
+198.	Smart vertical farm (scaled).
+199.	Replica of cargo drone (scaled).
+200.	Automated recycling plant demo.
+________________________________________
+________________________________________
+🔹 Beginner Level (School/Basic Science, 30 ideas)
+201.	Paper windmill (rotational motion demo).
+202.	Simple balance robot with 2 wheels.
+203.	Cardboard gear train demo.
+204.	DIY lava lamp (fluid density).
+205.	Balloon-powered submarine.
+206.	Rubber-band airplane.
+207.	Hand-made sundial (timekeeping).
+208.	Mini hydraulic bridge (syringes).
+209.	Water clock (ancient tech demo).
+210.	Airfoil lift experiment with paper.
+211.	Gyroscope toy with spinning wheel.
+212.	Paper parachute (drag force).
+213.	Mini stirling fan using candle.
+214.	Soda-bottle pressure fountain.
+215.	Rubber-band helicopter.
+216.	Rotating carousel toy with motor.
+217.	Water displacement demo (Archimedes’ principle).
+218.	DIY hot air balloon (tissue + candle).
+219.	Elastic collision demo with marbles.
+220.	DIY wind-powered car.
+221.	Simple water filtration model (sand & gravel).
+222.	Candle-powered steam boat (pop-pop boat).
+223.	Simple robotic gripper (string control).
+224.	Rubber-band powered boat.
+225.	Pulley escalator model.
+226.	Balloon rocket train.
+227.	Low-cost solar lantern.
+228.	Eggbeater powered by gears.
+229.	Air pressure lift demo (magdeburg hemispheres small scale).
+230.	Mechanical hammer demo (lever action).
+________________________________________
+🔹 Intermediate Level (College, Mechanical Projects, 40 ideas)
+231.	DIY electric bicycle conversion kit.
+232.	Arduino-based smart door lock.
+233.	Pneumatic sheet cutter.
+234.	DIY wind tunnel for drones.
+235.	Heat exchanger demo model.
+236.	Water hammer absorption system.
+237.	Semi-automatic bottle filling machine.
+238.	DIY 3D-printed robotic gripper.
+239.	Thermoelectric generator prototype.
+240.	Hybrid bicycle (solar + pedal).
+241.	Mini water desalination with multiple stages.
+242.	Low-cost incubator for poultry.
+243.	Arduino-controlled robotic hand.
+244.	Pneumatic vehicle (compressed air car).
+245.	Smart helmet with voice control.
+246.	Solar-powered Wi-Fi hotspot box.
+247.	Energy harvesting from footsteps.
+248.	Drone-based crop sprayer (scaled).
+249.	Smart LPG leakage detector system.
+250.	Low-cost rainwater purifier.
+251.	Quadrotor drone with camera (DIY).
+252.	Vibration-based energy harvester.
+253.	Vehicle accident prevention system.
+254.	CNC laser cutter (scaled).
+255.	Arduino-controlled conveyor with sensor sorting.
+256.	Low-cost electric wheelchair.
+257.	IoT weather monitoring system.
+258.	Robotic arm for 3D printing.
+259.	Smart bike helmet with GPS.
+260.	Automated toll collection model.
+261.	Plastic waste recycling shredder.
+262.	DIY centrifugal casting machine.
+263.	Smart car parking model with sensors.
+264.	Pneumatic brake system demo.
+265.	Solar-powered mobile charging bench.
+266.	DIY low-cost drone swarm.
+267.	Energy-efficient cooling jacket.
+268.	Miniature coal power plant model.
+269.	Pneumatic stamping machine.
+270.	Portable wind turbine generator.
+________________________________________
+🔹 Replica / Industry-Level (Possible Clones, 30 ideas)
+271.	Replica of Tesla Powerwall (scaled battery storage).
+272.	Automated mini car assembly line.
+273.	Replica of F1 pit stop automation system.
+274.	Scaled desalination plant prototype (multi-effect distillation).
+275.	Replica of smart airport system.
+276.	Smart drone swarm demo (miniature).
+277.	Replica of oil refinery distillation column.
+278.	Replica of a nuclear fusion reactor (safe plasma demo).
+279.	Scaled model of Hyperloop pod.
+280.	Smart logistics supply chain demo.
+281.	Miniature offshore wind farm.
+282.	Replica of space elevator (scaled model).
+283.	Scaled smart irrigation system (IoT).
+284.	Replica of Boeing wing flap control.
+285.	Model of Tesla autopilot highway system (scaled road demo).
+286.	Smart warehouse robot fleet (scaled).
+287.	Replica of exoskeleton suit (lightweight demo).
+288.	Replica of robotic 3D construction printer.
+289.	Scaled tidal energy generator.
+290.	Replica of hydrogen fueling station (scaled).
+291.	Autonomous drone taxi (scaled).
+292.	Replica of bullet train suspension system.
+293.	Replica of a geothermal plant turbine.
+294.	Smart solar microgrid (scaled).
+295.	Replica of robotic sorting used in logistics.
+296.	Replica of Boston Dynamics robotic dog (simplified).
+297.	Replica of satellite dish with auto-tracking.
+298.	Scaled model of smart vertical farming tower.
+299.	Replica of industrial robotic welding station.
+300.	Replica of Tesla charging super-station (scaled).
+________________________________________
+🔹 Beginner Level (School/Basic Science, 30 ideas)
+301.	Rubber-band powered fan car.
+302.	Mini pulley-operated elevator.
+303.	Soap boat surface tension demo.
+304.	Simple catapult made from popsicle sticks.
+305.	Windmill water pump (toy scale).
+306.	Balloon submarine (buoyancy).
+307.	Heat conduction experiment with wax & rods.
+308.	Homemade barometer with balloon.
+309.	Elastic-powered toy train.
+310.	Rotating solar system model.
+311.	Miniature drawbridge (hydraulic).
+312.	Simple magnet motor.
+313.	Water siphon demo.
+314.	DIY gyroscope spinner.
+315.	Saltwater-powered light.
+316.	Miniature grain grinder with gears.
+317.	Paper helicopter flight test.
+318.	Candle-powered steam engine.
+319.	Air vortex cannon with plastic bottle.
+320.	Simple robotic walking toy (crank mechanism).
+321.	Airfoil wing lift test with fan.
+322.	Rubber-band powered windmill.
+323.	Popsicle stick bridge strength test.
+324.	Simple centrifugal governor demo.
+325.	Mini solar-powered fan.
+326.	Lever-operated claw machine toy.
+327.	DIY magnetic levitation pencil.
+328.	Hand-cranked LED torch.
+329.	Cardboard crane with counterweight.
+330.	DIY Archimedes screw pump.
+________________________________________
+🔹 Intermediate Level (College, Mechanical Projects, 40 ideas)
+331.	Bicycle-powered electricity generator.
+332.	Solar-powered automatic irrigation system.
+333.	Pneumatic can crusher.
+334.	Wind turbine with auto yaw mechanism.
+335.	Stirling engine fan from scrap.
+336.	Arduino-based smart attendance system.
+337.	DIY robotic vacuum cleaner (scaled).
+338.	Pedal-powered water filtration system.
+339.	Pneumatic car lifting jack.
+340.	IoT-enabled smart switchboard.
+341.	Solar-powered mini water desalination unit.
+342.	Magnetic levitation train (small demo).
+343.	Arduino-based smart dustbin.
+344.	Automatic hydraulic gate.
+345.	Heat recovery ventilator model.
+346.	Arduino obstacle-detection stick.
+347.	Portable water purification system.
+348.	Pneumatic paint sprayer.
+349.	IoT-enabled home energy monitor.
+350.	Hand exoskeleton for grip assistance.
+351.	Low-cost hybrid scooter (solar + electric).
+352.	DIY robotic line follower for warehouses.
+353.	Smart helmet with alcohol sensor.
+354.	Pneumatic sheet bending machine.
+355.	Vibration analysis of rotating machinery (DIY setup).
+356.	Solar air heater model.
+357.	Portable wind energy generator.
+358.	Arduino smart greenhouse.
+359.	Automated luggage trolley (scaled airport demo).
+360.	DIY hybrid drone + land vehicle.
+361.	Low-cost material sorting system with sensors.
+362.	Thermal insulation demo using materials.
+363.	Self-cooling water bottle prototype.
+364.	Pneumatic punching press.
+365.	DIY robotic forklift.
+366.	Portable biogas digester prototype.
+367.	DIY parabolic solar cooker.
+368.	Remote-controlled all-terrain vehicle.
+369.	IoT smart streetlight system.
+370.	Thermoelectric refrigerator (small demo).
+________________________________________
+🔹 Replica / Industry-Level (Possible Clones, 30 ideas)
+371.	Replica of SpaceX Falcon 9 landing system (scaled).
+372.	Replica of Tesla autopilot braking demo.
+373.	Replica of F1 car aerodynamics test rig.
+374.	Replica of offshore oil platform.
+375.	Smart manufacturing robotic cell (scaled).
+376.	Replica of bullet train bogie suspension.
+377.	Replica of Tesla turbine.
+378.	Scaled nuclear cooling tower model.
+379.	Smart port logistics automation (miniature).
+380.	Replica of Hyperloop terminal station.
+381.	Replica of Airbus cockpit instrumentation (scaled).
+382.	Replica of robotic assembly line in automotive plants.
+383.	Replica of EV wireless charging pad.
+384.	Replica of carbon capture scrubber system.
+385.	Replica of Boston Dynamics Atlas robot (simplified).
+386.	Replica of autonomous farm tractor (scaled).
+387.	Replica of smart vertical airport parking (scaled).
+388.	Replica of modular space habitat (scaled).
+389.	Replica of hydrogen fuel station with demo tanks.
+390.	Replica of electric aircraft prototype (scaled).
+391.	Smart energy distribution microgrid (miniature).
+392.	Replica of robotic pipeline inspection system.
+393.	Replica of industrial CNC milling system (scaled).
+394.	Replica of Amazon drone delivery system.
+395.	Replica of solar-powered desalination farm.
+396.	Replica of Tesla Cyberquad (mini).
+397.	Replica of Boring Company tunnel boring machine (scaled).
+398.	Replica of offshore floating wind turbine.
+399.	Replica of smart recycling plant with IoT sensors.
+400.	Replica of lunar rover (scaled).
+________________________________________
+🔹 Beginner Level (School/Basic Science, 30 ideas)
+401.	Mini solar-powered water fountain.
+402.	Balloon-powered mini car (track test).
+403.	Popsicle stick bridge strength test.
+404.	DIY cardboard wind turbine.
+405.	Rubber-band powered spinning top.
+406.	Water displacement boat demo.
+407.	Hand-cranked mini fan.
+408.	Paper roller coaster (motion and gravity).
+409.	Simple lever-based lifting model.
+410.	Candle-powered pop-pop boat.
+411.	DIY periscope.
+412.	Air pressure rocket using bottle and pump.
+413.	Mini water wheel.
+414.	Balloon hovercraft (CD base).
+415.	DIY sundial.
+416.	Simple pendulum experiment for timekeeping.
+417.	Plastic bottle hydraulic lift.
+418.	Paper helicopter.
+419.	DIY small pulley elevator.
+420.	Elastic-powered boat.
+421.	Mini catapult with rubber bands.
+422.	DIY compass.
+423.	Mini Archimedes screw.
+424.	Popsicle stick crane.
+425.	Balloon-powered helicopter.
+426.	Elastic-powered car.
+427.	DIY gyroscope using a spinning disc.
+428.	Simple water filtration using sand & gravel.
+429.	Hand-cranked water pump.
+430.	Mini mechanical gear toy.
+________________________________________
+🔹 Intermediate Level (College, Mechanical Projects, 40 ideas)
+431.	Low-cost automatic water level controller.
+432.	Solar-powered battery charger.
+433.	Arduino-based automatic fan speed controller.
+434.	Pedal-powered mini generator.
+435.	Pneumatic car model.
+436.	Low-budget robotic arm.
+437.	Arduino smart home demo kit.
+438.	DIY solar tracker panel.
+439.	Small-scale automated greenhouse.
+440.	Hydraulic robotic grabber.
+441.	DIY conveyor belt system.
+442.	Mini automatic sorting system.
+443.	Water turbine electricity demo.
+444.	Low-cost biogas digester.
+445.	Solar air heater model.
+446.	Smart street light with sensor.
+447.	Automated irrigation prototype.
+448.	Solar-powered fan for classrooms.
+449.	Arduino temperature-controlled fan.
+450.	Mini wind energy harvester.
+451.	DIY automated bottle filling machine.
+452.	Low-budget CNC plotter.
+453.	Robotic line follower car.
+454.	Arduino-controlled smart dustbin.
+455.	Mini hydraulic press.
+456.	Small-scale vacuum forming machine.
+457.	Smart smart-parking system demo.
+458.	DIY portable desalination unit.
+459.	Miniature hybrid bicycle.
+460.	Portable solar oven.
+461.	Small-scale mechanical sorting machine.
+462.	Pneumatic lifting system.
+463.	Robotic pick-and-place system.
+464.	Arduino soil moisture-controlled irrigation.
+465.	Small-scale regenerative braking bike.
+466.	DIY energy harvester from footsteps.
+467.	Mini automated packaging line.
+468.	Small-scale smart traffic light system.
+469.	Low-budget electric go-kart.
+________________________________________
+🔹 Replica / Industry-Level (Possible Clones, 30 ideas)
+470.	Miniature EV charging station replica.
+471.	Replica of automated metro train system.
+472.	Mini smart factory assembly line.
+473.	Scaled robotic welding station.
+474.	Replica of autonomous drone delivery.
+475.	Mini F1 car aerodynamics test rig.
+476.	Scaled Tesla Powerwall demo.
+477.	Mini offshore wind turbine prototype.
+478.	Replica of autonomous warehouse robots.
+479.	Small-scale smart vertical farm.
+480.	Replica of automated car parking system.
+481.	Mini hydrogen fuel cell car.
+482.	Scaled model of industrial robotic arm.
+483.	Replica of EV battery swapping station.
+484.	Mini smart home automation model.
+485.	Scaled Tesla Cyberquad RC model.
+486.	Mini Hyperloop pod model.
+487.	Replica of airport baggage automation.
+488.	Small-scale solar farm with tracking panels.
+489.	Replica of tidal energy generator.
+490.	Scaled nuclear power plant model.
+491.	Mini automated factory sorting line.
+492.	Replica of maglev train prototype.
+493.	Miniature robotic exoskeleton arm.
+494.	Scaled drone swarm demonstration.
+495.	Replica of industrial CNC machine.
+496.	Scaled desalination plant with solar power.
+497.	Replica of smart logistics warehouse.
+498.	Miniature Boston Dynamics Spot robot.
+499.	Scaled hydrogen fueling station model.
+500.	Small-scale lunar rover replica.
+________________________________________
+🔹 Beginner Level (School/Basic Science, 30 ideas)
+501.	Balloon-powered propeller boat.
+502.	Rubber-band powered mini helicopter.
+503.	Popsicle stick gear train demo.
+504.	Mini water wheel generator.
+505.	Cardboard catapult.
+506.	Hand-cranked water lift.
+507.	DIY solar cooker with foil.
+508.	Paper pendulum energy demo.
+509.	Balloon rocket car.
+510.	DIY gyroscope toy.
+511.	Mini pulley elevator.
+512.	Elastic-powered car on track.
+513.	Water displacement boat.
+514.	Candle-powered pop-pop boat.
+515.	DIY periscope.
+516.	Elastic-powered helicopter.
+517.	Mini Archimedes screw.
+518.	Rubber-band fan.
+519.	Simple lever crane.
+520.	DIY compass.
+521.	Mini roller coaster for marbles.
+522.	Air pressure rocket.
+523.	Water filtration using sand & gravel.
+524.	Mini hand-crank fan.
+525.	Popsicle stick bridge.
+526.	Rubber-band powered top.
+527.	Balloon hovercraft (CD base).
+528.	Candle-powered Stirling fan.
+529.	Elastic-powered boat.
+530.	Simple gear-to-gear motion demo.
+________________________________________
+🔹 Intermediate Level (College, Mechanical Projects, 40 ideas)
+531.	Low-cost Arduino smart irrigation system.
+532.	Pedal-powered generator.
+533.	Pneumatic punching press.
+534.	DIY robotic arm with servo motors.
+535.	Arduino-based temperature-controlled fan.
+536.	Solar-powered mini desalination unit.
+537.	Small-scale conveyor belt sorter.
+538.	Smart street light with sensor.
+539.	Hydraulic robotic grabber.
+540.	Solar tracking panel prototype.
+541.	Low-cost CNC plotter.
+542.	DIY hybrid bicycle (pedal + solar).
+543.	Small wind turbine generator.
+544.	Portable solar oven.
+545.	Mini automated packaging machine.
+546.	Arduino smart dustbin.
+547.	Pneumatic lifting system.
+548.	Robotic line-following car.
+549.	Low-budget electric go-kart.
+550.	Small water turbine generator.
+551.	Arduino soil-moisture irrigation controller.
+552.	DIY robotic pick-and-place.
+553.	Energy harvester from footsteps.
+554.	Mini solar-powered fridge.
+555.	Small-scale regenerative braking demo.
+556.	Low-cost biogas generator.
+557.	Arduino-controlled automatic fan.
+558.	Mini pneumatic car.
+559.	Smart greenhouse with sensors.
+560.	Arduino automated gate.
+561.	Small hydraulic press.
+562.	Small-scale robotic welding arm.
+563.	Smart home demo with IoT.
+564.	Mini electric bicycle conversion.
+565.	DIY portable wind energy generator.
+566.	Low-budget CNC drawing machine.
+567.	Arduino smart traffic light prototype.
+568.	Mini drone for crop monitoring.
+________________________________________
+🔹 Replica / Industry-Level (Possible Clones, 30 ideas)
+569.	Mini smart EV charging station.
+570.	Replica of automated warehouse sorting system.
+571.	Scaled F1 car aerodynamics testing rig.
+572.	Mini robotic welding cell.
+573.	Replica of Tesla Powerwall system.
+574.	Mini offshore wind turbine.
+575.	Scaled drone delivery prototype.
+576.	Smart vertical farm (scaled).
+577.	Replica of automated metro train system.
+578.	Mini hydrogen fuel cell car.
+579.	Replica of EV battery swapping station.
+580.	Scaled industrial robotic arm.
+581.	Mini smart factory line.
+582.	Replica of autonomous warehouse robots.
+583.	Mini Hyperloop pod demo.
+584.	Replica of automated airport baggage system.
+585.	Mini tidal energy generator.
+586.	Scaled solar farm with tracking panels.
+587.	Mini maglev train prototype.
+588.	Replica of Boston Dynamics Spot robot.
+589.	Scaled smart energy microgrid.
+590.	Replica of EV wireless charging system.
+591.	Mini smart logistics warehouse.
+592.	Replica of Tesla Cyberquad (mini).
+593.	Mini lunar rover replica.
+594.	Replica of automated car parking system.
+595.	Mini industrial CNC machine.
+596.	Replica of hydrogen fueling station (demo).
+597.	Scaled robotic exoskeleton arm.
+598.	Mini automated factory sorting line.
+599.	Replica of smart home automation.
+600.	Scaled solar-powered desalination plant.
+🔹 Beginner Level (School/Basic Science, 30 ideas)
+601.	Mini rubber-band helicopter.
+602.	Popsicle stick crane.
+603.	Balloon-powered mini car.
+604.	Hand-cranked water pump.
+605.	DIY paper windmill.
+606.	Mini pulley elevator.
+607.	Simple lever crane with weights.
+608.	Balloon rocket on string.
+609.	Mini Archimedes screw.
+610.	DIY gyroscope spinner.
+611.	Elastic-powered car on track.
+612.	Water displacement boat.
+613.	Candle-powered Stirling fan.
+614.	Mini catapult.
+615.	DIY periscope.
+616.	Balloon hovercraft with CD.
+617.	Rubber-band powered top.
+618.	Mini solar fan.
+619.	Popsicle stick bridge.
+620.	Elastic-powered helicopter.
+621.	Mini roller coaster for marbles.
+622.	Hand-cranked fan.
+623.	Candle-powered pop-pop boat.
+624.	Air pressure rocket (bottle).
+625.	Simple gear-to-gear motion demo.
+626.	DIY compass.
+627.	Balloon-powered boat.
+628.	Mini water wheel generator.
+629.	Popsicle stick wind turbine.
+630.	Rubber-band fan car.
+________________________________________
+🔹 Intermediate Level (College, Mechanical Projects, 40 ideas)
+631.	Arduino-based smart irrigation controller.
+632.	Pedal-powered generator.
+633.	Pneumatic punching press.
+634.	DIY robotic arm with servos.
+635.	Solar-powered mini desalination unit.
+636.	Low-cost conveyor belt sorting system.
+637.	Arduino temperature-controlled fan.
+638.	Hydraulic robotic grabber.
+639.	Mini solar tracker panel.
+640.	Small-scale automated greenhouse.
+641.	DIY hybrid bicycle (pedal + solar).
+642.	Low-cost CNC plotter.
+643.	Small water turbine generator.
+644.	Arduino smart dustbin.
+645.	Smart street light with sensors.
+646.	Mini automated packaging machine.
+647.	Pneumatic lifting system.
+648.	Robotic line-following car.
+649.	DIY robotic pick-and-place.
+650.	Solar-powered fan for classrooms.
+651.	Arduino soil-moisture irrigation system.
+652.	Low-budget electric go-kart.
+653.	Mini pneumatic car.
+654.	Small-scale regenerative braking demo.
+655.	Energy harvester from footsteps.
+656.	Arduino automated gate.
+657.	Smart greenhouse with sensors.
+658.	Small hydraulic press.
+659.	Arduino smart traffic light prototype.
+660.	Mini drone for crop monitoring.
+661.	Portable solar oven.
+662.	Low-cost biogas generator.
+663.	Mini robotic welding arm.
+664.	DIY portable wind energy generator.
+665.	Small-scale robotic packaging arm.
+666.	Arduino obstacle detection car.
+667.	Smart home demo with IoT sensors.
+668.	Mini electric bicycle conversion.
+669.	Pneumatic sheet bending machine.
+670.	Small-scale conveyor belt with sensors.
+________________________________________
+🔹 Replica / Industry-Level (Possible Clones, 30 ideas)
+671.	Mini smart EV charging station.
+672.	Replica of automated warehouse robot system.
+673.	Scaled F1 car aerodynamics test rig.
+674.	Mini robotic welding cell.
+675.	Replica of Tesla Powerwall (scaled).
+676.	Mini offshore wind turbine.
+677.	Scaled drone delivery prototype.
+678.	Smart vertical farm (scaled).
+679.	Replica of automated metro train.
+680.	Mini hydrogen fuel cell car.
+681.	Replica of EV battery swapping station.
+682.	Scaled industrial robotic arm.
+683.	Mini smart factory line.
+684.	Replica of autonomous warehouse robots.
+685.	Mini Hyperloop pod model.
+686.	Replica of airport baggage automation system.
+687.	Mini tidal energy generator.
+688.	Scaled solar farm with tracking panels.
+689.	Mini maglev train prototype.
+690.	Replica of Boston Dynamics Spot robot.
+691.	Scaled smart energy microgrid.
+692.	Replica of EV wireless charging system.
+693.	Mini smart logistics warehouse.
+694.	Replica of Tesla Cyberquad (mini).
+695.	Mini lunar rover prototype.
+696.	Replica of automated car parking system.
+697.	Mini industrial CNC machine.
+698.	Replica of hydrogen fueling station (scaled).
+699.	Scaled robotic exoskeleton arm.
+700.	Mini automated factory sorting line.
+🔹 Beginner Level (School/Basic Science, 30 ideas)
+701.	Rubber-band powered fan car.
+702.	Popsicle stick pulley system.
+703.	Balloon-powered boat.
+704.	Mini water wheel.
+705.	DIY catapult.
+706.	Hand-cranked fan.
+707.	Paper helicopter.
+708.	Elastic-powered car.
+709.	Balloon rocket on string.
+710.	Mini Archimedes screw.
+711.	Simple lever demo.
+712.	Candle-powered pop-pop boat.
+713.	DIY gyroscope spinner.
+714.	Balloon hovercraft (CD base).
+715.	Popsicle stick bridge.
+716.	Elastic-powered helicopter.
+717.	Mini roller coaster for marbles.
+718.	Air pressure rocket (bottle).
+719.	Water displacement boat.
+720.	Mini pulley elevator.
+721.	Rubber-band powered top.
+722.	Simple gear-to-gear motion.
+723.	Candle-powered Stirling fan.
+724.	DIY periscope.
+725.	Mini solar fan.
+726.	DIY compass.
+727.	Elastic-powered boat.
+728.	Mini hand-crank water pump.
+729.	Paper windmill.
+730.	Popsicle stick crane.
+________________________________________
+🔹 Intermediate Level (College, Mechanical Projects, 40 ideas)
+731.	Arduino-based smart irrigation system.
+732.	Pedal-powered generator.
+733.	Pneumatic lifting system.
+734.	DIY robotic arm with servo motors.
+735.	Solar-powered mini desalination unit.
+736.	Small-scale conveyor belt sorting demo.
+737.	Arduino temperature-controlled fan.
+738.	Hydraulic robotic grabber.
+739.	Mini solar tracker panel.
+740.	Smart greenhouse with sensors.
+741.	DIY hybrid bicycle (pedal + solar).
+742.	Low-cost CNC plotter.
+743.	Mini water turbine generator.
+744.	Arduino smart dustbin.
+745.	Smart street light with sensor.
+746.	Mini automated packaging machine.
+747.	Robotic line-following car.
+748.	DIY robotic pick-and-place.
+749.	Arduino soil-moisture irrigation controller.
+750.	Low-budget electric go-kart.
+751.	Mini pneumatic car.
+752.	Small-scale regenerative braking bike demo.
+753.	Energy harvester from footsteps.
+754.	Arduino automated gate.
+755.	Small hydraulic press.
+756.	Small-scale robotic welding arm.
+757.	Arduino smart traffic light prototype.
+758.	Mini drone for crop monitoring.
+759.	Portable solar oven.
+760.	Low-cost biogas generator.
+761.	DIY portable wind energy generator.
+762.	Pneumatic sheet bending machine.
+763.	Mini automated factory sorting arm.
+764.	Arduino obstacle detection car.
+765.	Smart home demo with IoT sensors.
+766.	Mini electric bicycle conversion.
+767.	Solar-powered fan for classrooms.
+768.	Small-scale conveyor belt with sensors.
+769.	Low-cost CNC drawing machine.
+770.	Mini hydraulic robotic arm.
+________________________________________
+🔹 Replica / Industry-Level (Possible Clones, 30 ideas)
+771.	Mini smart EV charging station.
+772.	Replica of automated warehouse robot system.
+773.	Scaled F1 car aerodynamics test rig.
+774.	Mini robotic welding cell.
+775.	Replica of Tesla Powerwall (scaled).
+776.	Mini offshore wind turbine.
+777.	Scaled drone delivery prototype.
+778.	Smart vertical farm (scaled).
+779.	Replica of automated metro train.
+780.	Mini hydrogen fuel cell car.
+781.	Replica of EV battery swapping station.
+782.	Scaled industrial robotic arm.
+783.	Mini smart factory line.
+784.	Replica of autonomous warehouse robots.
+785.	Mini Hyperloop pod model.
+786.	Replica of airport baggage automation system.
+787.	Mini tidal energy generator.
+788.	Scaled solar farm with tracking panels.
+789.	Mini maglev train prototype.
+790.	Replica of Boston Dynamics Spot robot.
+791.	Scaled smart energy microgrid.
+792.	Replica of EV wireless charging system.
+793.	Mini smart logistics warehouse.
+794.	Replica of Tesla Cyberquad (mini).
+795.	Mini lunar rover prototype.
+796.	Replica of automated car parking system.
+797.	Mini industrial CNC machine.
+798.	Replica of hydrogen fueling station (scaled).
+799.	Scaled robotic exoskeleton arm.
+800.	Mini automated factory sorting line.
+🔹 Beginner Level (School/Basic Science, 30 ideas)
+801.	Balloon-powered mini car with straw wheels.
+802.	Popsicle stick lever crane.
+803.	Mini water wheel generator.
+804.	Hand-cranked fan.
+805.	DIY catapult using rubber bands.
+806.	Paper helicopter.
+807.	Elastic-powered car on track.
+808.	Balloon rocket on string.
+809.	Mini Archimedes screw.
+810.	Candle-powered pop-pop boat.
+811.	Mini pulley elevator.
+812.	Rubber-band powered top.
+813.	Mini roller coaster for marbles.
+814.	DIY gyroscope spinner.
+815.	Popsicle stick bridge.
+816.	Balloon hovercraft (CD base).
+817.	Elastic-powered helicopter.
+818.	Air pressure rocket (plastic bottle).
+819.	Water displacement boat.
+820.	Simple lever demo.
+821.	Candle-powered Stirling fan.
+822.	DIY periscope.
+823.	Mini solar fan.
+824.	DIY compass.
+825.	Elastic-powered boat.
+826.	Mini hand-crank water pump.
+827.	Paper windmill.
+828.	Popsicle stick crane.
+829.	Rubber-band powered fan car.
+830.	Mini gear-to-gear motion demo.
+________________________________________
+🔹 Intermediate Level (College, Mechanical Projects, 40 ideas)
+831.	Arduino-based smart irrigation system.
+832.	Pedal-powered generator.
+833.	Pneumatic punching press.
+834.	DIY robotic arm with servo motors.
+835.	Solar-powered mini desalination unit.
+836.	Small-scale conveyor belt sorter.
+837.	Arduino temperature-controlled fan.
+838.	Hydraulic robotic grabber.
+839.	Mini solar tracker panel.
+840.	Smart greenhouse with sensors.
+841.	DIY hybrid bicycle (pedal + solar).
+842.	Low-cost CNC plotter.
+843.	Mini water turbine generator.
+844.	Arduino smart dustbin.
+845.	Smart street light with sensor.
+846.	Mini automated packaging machine.
+847.	Robotic line-following car.
+848.	DIY robotic pick-and-place.
+849.	Arduino soil-moisture irrigation controller.
+850.	Low-budget electric go-kart.
+851.	Mini pneumatic car.
+852.	Small-scale regenerative braking demo.
+853.	Energy harvester from footsteps.
+854.	Arduino automated gate.
+855.	Small hydraulic press.
+856.	Small-scale robotic welding arm.
+857.	Arduino smart traffic light prototype.
+858.	Mini drone for crop monitoring.
+859.	Portable solar oven.
+860.	Low-cost biogas generator.
+861.	DIY portable wind energy generator.
+862.	Pneumatic sheet bending machine.
+863.	Mini automated factory sorting arm.
+864.	Arduino obstacle detection car.
+865.	Smart home demo with IoT sensors.
+866.	Mini electric bicycle conversion.
+867.	Solar-powered fan for classrooms.
+868.	Small-scale conveyor belt with sensors.
+869.	Low-cost CNC drawing machine.
+870.	Mini hydraulic robotic arm.
+________________________________________
+🔹 Replica / Industry-Level (Possible Clones, 30 ideas)
+871.	Mini smart EV charging station.
+872.	Replica of automated warehouse robot system.
+873.	Scaled F1 car aerodynamics test rig.
+874.	Mini robotic welding cell.
+875.	Replica of Tesla Powerwall (scaled).
+876.	Mini offshore wind turbine.
+877.	Scaled drone delivery prototype.
+878.	Smart vertical farm (scaled).
+879.	Replica of automated metro train.
+880.	Mini hydrogen fuel cell car.
+881.	Replica of EV battery swapping station.
+882.	Scaled industrial robotic arm.
+883.	Mini smart factory line.
+884.	Replica of autonomous warehouse robots.
+885.	Mini Hyperloop pod model.
+886.	Replica of airport baggage automation system.
+887.	Mini tidal energy generator.
+888.	Scaled solar farm with tracking panels.
+889.	Mini maglev train prototype.
+890.	Replica of Boston Dynamics Spot robot.
+891.	Scaled smart energy microgrid.
+892.	Replica of EV wireless charging system.
+893.	Mini smart logistics warehouse.
+894.	Replica of Tesla Cyberquad (mini).
+895.	Mini lunar rover prototype.
+896.	Replica of automated car parking system.
+897.	Mini industrial CNC machine.
+898.	Replica of hydrogen fueling station (scaled).
+899.	Scaled robotic exoskeleton arm.
+900.	Mini automated factory sorting line.
+🔹 Beginner Level (School/Basic Science, 30 ideas)
+901.	Mini rubber-band helicopter.
+902.	Popsicle stick pulley crane.
+903.	Balloon-powered mini car.
+904.	Hand-cranked water pump.
+905.	DIY catapult with elastic bands.
+906.	Paper helicopter flight test.
+907.	Elastic-powered toy car.
+908.	Balloon rocket on string.
+909.	Mini Archimedes screw pump.
+910.	Candle-powered pop-pop boat.
+911.	Mini pulley elevator.
+912.	Rubber-band powered spinning top.
+913.	Mini roller coaster for marbles.
+914.	DIY gyroscope spinner.
+915.	Popsicle stick bridge test.
+916.	Balloon hovercraft (CD base).
+917.	Elastic-powered mini helicopter.
+918.	Air pressure rocket (bottle).
+919.	Water displacement boat.
+920.	Simple lever demo.
+921.	Candle-powered Stirling fan.
+922.	DIY periscope.
+923.	Mini solar fan.
+924.	DIY compass.
+925.	Elastic-powered boat.
+926.	Mini hand-crank fan.
+927.	Paper windmill.
+928.	Popsicle stick crane.
+929.	Rubber-band powered fan car.
+930.	Mini gear-to-gear motion demo.
+________________________________________
+🔹 Intermediate Level (College, Mechanical Projects, 40 ideas)
+931.	Arduino-based smart irrigation system.
+932.	Pedal-powered generator.
+933.	Pneumatic punching press.
+934.	DIY robotic arm with servo motors.
+935.	Solar-powered mini desalination unit.
+936.	Small-scale conveyor belt sorting demo.
+937.	Arduino temperature-controlled fan.
+938.	Hydraulic robotic grabber.
+939.	Mini solar tracker panel.
+940.	Smart greenhouse with sensors.
+941.	DIY hybrid bicycle (pedal + solar).
+942.	Low-cost CNC plotter.
+943.	Mini water turbine generator.
+944.	Arduino smart dustbin.
+945.	Smart street light with sensor.
+946.	Mini automated packaging machine.
+947.	Robotic line-following car.
+948.	DIY robotic pick-and-place.
+949.	Arduino soil-moisture irrigation controller.
+950.	Low-budget electric go-kart.
+951.	Mini pneumatic car.
+952.	Small-scale regenerative braking demo.
+953.	Energy harvester from footsteps.
+954.	Arduino automated gate.
+955.	Small hydraulic press.
+956.	Small-scale robotic welding arm.
+957.	Arduino smart traffic light prototype.
+958.	Mini drone for crop monitoring.
+959.	Portable solar oven.
+960.	Low-cost biogas generator.
+961.	DIY portable wind energy generator.
+962.	Pneumatic sheet bending machine.
+963.	Mini automated factory sorting arm.
+964.	Arduino obstacle detection car.
+965.	Smart home demo with IoT sensors.
+966.	Mini electric bicycle conversion.
+967.	Solar-powered fan for classrooms.
+968.	Small-scale conveyor belt with sensors.
+969.	Low-cost CNC drawing machine.
+970.	Mini hydraulic robotic arm.
+________________________________________
+🔹 Replica / Industry-Level (Possible Clones, 30 ideas)
+971.	Mini smart EV charging station.
+972.	Replica of automated warehouse robot system.
+973.	Scaled F1 car aerodynamics test rig.
+974.	Mini robotic welding cell.
+975.	Replica of Tesla Powerwall (scaled).
+976.	Mini offshore wind turbine.
+977.	Scaled drone delivery prototype.
+978.	Smart vertical farm (scaled).
+979.	Replica of automated metro train.
+980.	Mini hydrogen fuel cell car.
+981.	Replica of EV battery swapping station.
+982.	Scaled industrial robotic arm.
+983.	Mini smart factory line.
+984.	Replica of autonomous warehouse robots.
+985.	Mini Hyperloop pod model.
+986.	Replica of airport baggage automation system.
+987.	Mini tidal energy generator.
+988.	Scaled solar farm with tracking panels.
+989.	Mini maglev train prototype.
+990.	Replica of Boston Dynamics Spot robot.
+991.	Scaled smart energy microgrid.
+992.	Replica of EV wireless charging system.
+993.	Mini smart logistics warehouse.
+994.	Replica of Tesla Cyberquad (mini).
+995.	Mini lunar rover prototype.
+996.	Replica of automated car parking system.
+997.	Mini industrial CNC machine.
+998.	Replica of hydrogen fueling station (scaled).
+999.	Scaled robotic exoskeleton arm.
+1000.	Mini automated factory sorting line.
